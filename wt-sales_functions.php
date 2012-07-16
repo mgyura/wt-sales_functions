@@ -17,3 +17,5 @@
     require_once( dirname( __FILE__ ) . '/includes/wt-sales_taxonomies.php' );
     require_once( dirname( __FILE__ ) . '/includes/wt-sales_metaboxes.php' );
     require_once( dirname( __FILE__ ) . '/includes/wt-sales_filters.php' );
+
+//this is a test.  Did this work? 
